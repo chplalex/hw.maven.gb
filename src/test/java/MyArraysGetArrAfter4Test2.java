@@ -10,10 +10,10 @@ import java.util.Arrays;
 import java.util.Collection;
 
 @RunWith(Parameterized.class)
-public class MyArraysTest2 {
+public class MyArraysGetArrAfter4Test2 {
     int[] inputArr;
 
-    public MyArraysTest2(int[] inputArr) {
+    public MyArraysGetArrAfter4Test2(int[] inputArr) {
         this.inputArr = inputArr;
     }
 
